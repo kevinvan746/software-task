@@ -7,3 +7,76 @@
 The aim of this project is to create an educational website that shows learning content in a
 simple and intereactive way. The website should respond quickly when users click or type and
 give clear instructions.
+
+## Functional Requirements
+
+- The website must have an interactive design.
+- Users must be able to choose and switch between different learning modules.
+- The system must accept user input and check if it is correct.
+- The website must update straight away without refreshing the page 
+- The systen must use data structure like dictionaries etc.
+
+
+## Non-Functional Requirements
+
+- The website must respond within 100 milliseconds os it feels fast.
+- All content must be reachabe within three clicks from the main page.
+- The website must work properly on computers and mobile devices.
+- The system must keep data secure using proper encryption.
+
+
+## Constraints
+
+- Only free and open-source tools can be used.
+- The website must be built using HTML
+- The project must be finished by Term 2, Week 2
+
+# User Specifications
+
+## Target Users
+The main users are students who want access learning content online.
+
+## What Users Should Be Able To Do
+
+- Select different learning modules
+- Move easily between sections
+- Type answers or enter information
+- Receive instand feedback
+- See their progress
+
+## User Expectations
+- the website should be easy to understand.
+- it should load quickly.
+- Navigation should be simple and not confusing
+- The design shoud be neat and clear
+
+
+## Purpose
+
+The purpose of this website is to provide studets with online learning content in a simple
+and interactive way. It is designed to help students move through lessons, answer questions,
+and get feedback straight away. The system makes learning more engaging and easier to
+access.
+
+
+## Design Decisions
+
+- HTML were used to create the layout and design.
+- State-based navigation was used so users can switch between modules without reloading
+ the page.
+- Responsive design was used so the website works on computers and mobile phones.
+
+## Functionality
+
+- Users can choose a learning module from the main menu.
+- The selected content appears instantly.
+- users can enter answers and the system checks if they are correct.
+- Feedback is shown immediately
+- The website updates automatically without refreshing.
+- Lesson content and progress are stored using internal data structures.
+
+
+
+
+
+
