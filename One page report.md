@@ -8,4 +8,5 @@ The website includes several interactive features that improve the learning expe
 
 The website also includes a bookmarking feature, allowing users to save important terms and revisit them later. This supports revision and helps users organise their learning. Another key feature is the quiz system. After viewing a term, users can complete a short quiz to test their understanding. Immediate feedback is provided, including scores and explanations, which helps users identify areas for improvement.
 
-
+#Design
+The design of the website focuses on simplicity, clarity, and usability. A clean layout is used to ensure that information is easy to read and not overwhelming. The interface includes a clear navigation structure with a search bar prominently placed on the homepage, allowing users to quickly find terms.
