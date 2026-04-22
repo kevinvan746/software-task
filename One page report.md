@@ -1,0 +1,3 @@
+# Purpose
+
+The purpose of the Explain Like I’m 15 Tech Dictionary website is to help beginner software engineering students understand complex programming concepts in a simple and accessible way. Many existing resources are difficult to understand because they use technical language, which can confuse new learners. This website aims to solve that problem by providing clear explanations, real-life analogies, and simple examples that make learning easier. The website is designed mainly for students who are new to coding or are still developing their understanding of key concepts such as variables, loops, and APIs. By simplifying these ideas, the platform supports independent learning and helps students build confidence in their programming skills.
